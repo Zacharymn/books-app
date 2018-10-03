@@ -1,5 +1,5 @@
 {
-  
+  "homepage": "https://zacharymn.github.io/books-app/",
   "dependencies": {
     "gh-pages": "^2.0.0",
     "prop-types": "^15.6.1",
