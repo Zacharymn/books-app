@@ -99,6 +99,14 @@ body, .app {
   font-size: 0;
 }
 
+.clear-search {
+	cursor: pointer;
+}
+
+.no-results {
+  text-align: center;
+}
+
 .search-books-results {
   padding: 80px 10px 20px;
 }
@@ -125,6 +133,12 @@ body, .app {
 .book-title,
 .book-authors {
   font-size: 0.8em;
+}
+
+p.authors-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 .book-title {
   margin-top: 10px;
